@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta base -->
+    <color name="palette_1">#CBA588</color>
+    <color name="palette_2">#D8BCA5</color>
+    <color name="palette_3">#E5D2C3</color>
+    <color name="palette_4">#F2E9E1</color>
+    <color name="palette_5">#FFFFFF</color>
+
+    <!-- Tonos oscuros para buen contraste (texto, iconos, botones) -->
+    <color name="palette_dark">#8C6A4F</color>
+    <color name="palette_darker">#5A4030</color>
+    <color name="palette_darkest">#3B2A1E</color>
+</resources>
